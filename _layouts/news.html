@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  {% include page__hero.html %}
+{% elsif page.header.video.id and page.header.video.provider %}
+  {% include page__hero_video.html %}
+{% endif %}
+
+{% if page.url != "/" and site.breadcrumbs %}
+  {% unless paginator %}
+    {% include breadcrumbs.html %}
+  {% endunless %}
+{% endif %}
+
+{% if page.image.banner %}
+  <div class="banner-image">
+    {% if page.image.banner contains 'http' %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} external cover image">
+    {% else %}
+      <img src="{{ page.image.banner }}" alt="{{ page.title }} cover image" | relative_url>
+    {% endif %}
+    {% if page.image.credit %}
+      <span class="image-credit">image by: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+    {% if page.image.label %}
+      <span class="image-label"><h1>{{ page.image.label }}</h1></span>
+    {% endif %}
+  </div><!-- /.banner-image -->
+{% endif %}
+
+<div id="latest-news">
+  <h2>Latest:</h2>
+  <div class="grid_latest_news">
+    {% for post in site.categories.news limit:9 %}
+      <div class="grid_box">
+        <h5>{{ post.title }}</h5>
+        {% if post.image.cover %}
+          {% if post.image.cover contains 'http' %}
+            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
+          {% else %}
+            <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+          {% endif %}
+        {% else %}
+          {% capture post.image.cover %}{/assets/images/posts/news/default.jpg]{% endcapture %}
+          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+        {% endif %}
+        <a href="{{ post.url }}">see details</a>
+      </div> <!-- grid_box  -->
+    {% endfor %}
+  </div> <!-- grid_latest_news  -->
+</div> <!-- lastest news  -->
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+<div class="page__inner-wrap">
+
+  <div class="archive">
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+
+  <ul class="taxonomy__index">
+    {% assign postsInYear = site.categories.news | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+    {% for year in postsInYear %}
+      <li>
+        <a href="#{{ year.name }}">
+          <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% assign entries_layout = page.entries_layout | default: 'list' %}
+  {% assign postsByYear = site.categories.news | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+  {% for year in postsByYear %}
+    <section id="{{ year.name }}" class="taxonomy__section">
+      <h2 class="archive__subtitle">{{ year.name }}</h2>
+      <div class="entries-{{ entries_layout }}">
+        {% for post in year.items %}
+          {% include archive-single.html type=entries_layout %}
+        {% endfor %}
+      </div>
+      <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    </section>
+  {% endfor %}
+
+</div> <!--- page__inner-wrap -->
+
+</div> <!--- main -->

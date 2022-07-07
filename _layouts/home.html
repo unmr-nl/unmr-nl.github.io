@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+{% if page.image.cover %}
+  <div class="cover-image">
+    {% if page.image.cover contains 'http' %}
+      <img src="{{ page.image.cover }}" alt="{{ page.title }} external cover image">
+    {% else %}
+       <img src="{{ page.image.cover }}" alt="{{ page.title }} cover image" | relative_url >
+    {% endif %}
+    {% if page.image.credit %}
+      <span class="image-credit">image by: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+    {% endif %}
+    {% if page.image.label %}
+      <span class="image-label"><h1>{{ page.image.label }}</h1></span>
+    {% endif %}
+  </div><!-- /.cover-image -->
+{% endif %}
+
+<div id="md-content-home">
+  {{ content }}
+</div><!-- /.md-content -->
+
+<div id="latest-news">
+  <!-- News Section -->
+  <h2><a href="{{ site.url}}/news/">Highlights</a></h2>
+
+  {% if paginator %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+
+  <div class="grid_latest_news">
+    {% for post in site.categories.news limit:6 %}
+      <div class="grid_box">
+        <h5>{{ post.title }}</h5>
+        {% if post.image.cover %}
+          {% capture post_image_source %}{{ site.url }}/assets/images/{{ post.image.cover }}{% endcapture %}
+          <img src="{{ post_image_source }}" alt="{{ page.title }} post cover image">
+        {% else %}
+          {% capture post_image_source %}{{ site.url }}/assets/images/posts/news/default.jpg{% endcapture %}
+          <img src="{{ post_image_source }}" alt="{{ page.title }} post cover image">
+        {% endif %}
+        <a href="{{ post.url }}">read here</a>
+      </div> <!-- grid_box  -->
+    {% endfor %}
+  </div> <!-- grid_latest_news  -->
+
+</div><!-- /.latest-news -->
+
+{% include paginator.html %}
