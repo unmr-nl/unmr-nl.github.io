@@ -20,6 +20,6 @@ Users and usergroups that can apply for measurement time and expertise on the uN
 
 ## Request uNMR-NL access
 
-To request access to NMR equipment at the uNMR-NL facility sites, please send an email to [Vlad Cojocaru](mailto:v.cojocaru@uu.nl) with a short (one A4 page) description of the requested NMR measurements. For academic users, please also add the scientific background of the project.
+To request access to NMR equipment at the uNMR-NL facility sites, please send an email to [info.unmrnl@gmail.com](mailto:info.unmrnl@gmail.com) with a short (one A4 page) description of the requested NMR measurements. For academic users, please also add the scientific background of the project.
 
 *Under construction*: Application form

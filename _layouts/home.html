@@ -24,7 +24,7 @@ layout: default
 
 <div id="latest-news">
   <!-- News Section -->
-  <h2><a href="{{ site.url}}/news/">Highlights</a></h2>
+  <h2><a href="/news/" | relative_url >Highlights</a></h2>
 
   {% if paginator %}
     {% assign posts = paginator.posts %}
@@ -32,22 +32,21 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-
   <div class="grid_latest_news">
     {% for post in site.categories.news limit:6 %}
       <div class="grid_box">
-        <h5>{{ post.title }}</h5>
+        <h6>{{ post.title }}</h6>
         {% if post.image.cover %}
-           {% if post.image.cover contains 'http' %}
-            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
+          {% if post.image.cover contains 'http' %}
+            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image" >
           {% else %}
             <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-          {% endif %}
+          {% endif %}    
         {% else %}
-          {% capture post.image.cover %}{/assets/images/posts/news/default.jpg]{% endcapture %}
-          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+          {% capture image_cover %}/assets/images/posts/news/default.jpg{% endcapture %}
+          <img src="{{ image_cover }}" alt="{{ post.title }} cover image" | relative_url>
         {% endif %}
-        <a href="{{ post.url }}">read here</a>
+        <a href="{{ post.url }}">full story</a>
       </div> <!-- grid_box  -->
     {% endfor %}
   </div> <!-- grid_latest_news  -->
