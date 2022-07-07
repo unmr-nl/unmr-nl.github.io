@@ -41,11 +41,14 @@ layout: default
       <div class="grid_image_box">
         <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
         {% if post.image.cover %}
-          {% capture post_image_source %}{{ site.url }}/assets/images/{{ post.image.cover }}{% endcapture %}
-          <img src="{{ post_image_source }}" alt="{{ page.title }} post cover image">
+          {% if post.image.cover contains 'http' %}
+            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
+          {% else %}
+            <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
+          {% endif %}
         {% else %}
-          {% capture post_image_source %}{{ site.url }}/assets/images/posts/news/default.jpg{% endcapture %}
-          <img src="{{ post_image_source }}" alt="{{ page.title }} post cover image">
+          {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
+          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
         {% endif %}
       </div> <!-- grid_image_box  -->
     {% endfor %}
