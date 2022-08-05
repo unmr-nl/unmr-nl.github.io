@@ -35,11 +35,11 @@ layout: default
 
   {{ content }}
 
-<div id="members">
-  <h2>Team members</h2>
-  <div class="grid_people_images">
-    {% for post in site.categories.members %}
-      <div class="grid_people_image_box">
+<div id="title">
+  <h2>International advisory board</h2>
+  <div class="grid-2-4-8">
+    {% for post in site.categories.board-members %}
+      <div class="gridbox">
         <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
         {% if post.image.cover %}
           {% if post.image.cover contains 'http' %}
@@ -50,10 +50,10 @@ layout: default
         {% else %}
           {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
           <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-        {% endif %}
-      </div> <!-- grid_image_box  -->
+        {%  endif %}
+      </div> <!-- gridbox  -->
     {% endfor %}
-  </div> <!-- grid_people_images  -->
-</div> <!-- members  -->
+  </div> <!-- grid-2-4-8  -->
+</div> <!-- title (advisory board)  -->
 
 </div> <!--- main -->

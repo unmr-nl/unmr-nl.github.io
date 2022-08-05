@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Description of the uNMR facility"
-tags: [NMR, Structural Biology, Computational Biology, Modelling, Protein Structure]
+title: "Education within the uNMR facility"
+tags: [NMR facility, ultrahigh-field NMR, Structural Biology, Computational Biology, Protein Structure]
 
 image:
    banner: /assets/images/pages/education_page_banner_image.jpg

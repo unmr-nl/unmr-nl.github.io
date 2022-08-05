@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Acccess to the uNMR facility"
-tags: [NMR, Structural Biology, Computational Biology, Modelling, Protein Structure]
+tags: [NMR facility, ultrahigh-field NMR, Structural Biology, Computational Biology, Protein Structure]
 
 image:
    banner: /assets/images/pages/access_page_banner_image.jpg
