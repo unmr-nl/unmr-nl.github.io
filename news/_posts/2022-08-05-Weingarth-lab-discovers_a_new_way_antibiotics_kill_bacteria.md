@@ -5,7 +5,7 @@ category: news
 image:
    cover: /assets/images/posts/news/2022-08-05_news_image_01.jpg
 sidebar:
-   - title: 'Weak spots in bacterial cell membrane '
+   - title: 'Weak spots in bacterial cell membrane e'
      image: /assets/images/posts/news/2022-08-05_news_image_01.jpg
 author: Vlad Cojocaru
 ---
