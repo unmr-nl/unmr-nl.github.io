@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "van Ingen lab and collaborators discover a new way in which DNA is wrapped"
+title: "van Ingen lab and collaborators discover a new way in which chromatin is assembled"
 category: news
 image:
    cover: /assets/images/posts/news/2022-08-19_news_image_01.jpg
