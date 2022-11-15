@@ -9,10 +9,11 @@ image:
 ---
 
 ## Ultrahigh-field NMR for the Netherlands
+Supported by the Dutch Research Council ![](/assets/images/logos/logo_nwo.png), uNMR-NL enables non-invasive characterization of molecular systems from the atomic to micrometer range by ultra-high field NMR.  It is a [national large scale facility](https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities) (GWI) and connects all Dutch high-field NMR centers.
 
-The uNMR-NL facility enables non-invasive characterization of molecular systems from the atomic to micrometer range by ultra-high field NMR. We offer expertise and measurement time on spectrometers currently ranging from 600-950 MHz for solid- and liquid-state NMR as well as micro-imaging. The current uNMR-NL high-end 1.2 GHz spectrometer is equipped with state-of-the-art instrumentation for all three fields of research, providing the highest sensitivity and resolution in the Netherlands. Moreover, dedicated NMR instrumentation and expertise is available at the four uNMR-NL sites.
+## Equipment and expertise
 
-## We offer equipment and expertise
+We offer expertise and measurement time on spectrometers currently ranging from 600-950 MHz for solid- and liquid-state NMR as well as micro-imaging. The current uNMR-NL high-end 1.2 GHz spectrometer is equipped with state-of-the-art instrumentation for all three fields of research, providing the highest sensitivity and resolution in the Netherlands. Moreover, dedicated NMR instrumentation and expertise is available at the four uNMR-NL sites.
 
 **High-field NMR spectrometers**:\
 the uNMR-NL facility provides the highest field (1.2 GHz) in the Netherlands
