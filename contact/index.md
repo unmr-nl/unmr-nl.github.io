@@ -6,14 +6,6 @@ image:
    banner: /assets/images/pages/contact_page_banner_image.jpg
 ---
 
-### Address
-Padualaan 8, 3584 CH Utrecht, the Netherlands
+For general questions please contact Dr. Andrei Gurinov [a.gurinov@uu.nl](mailto:a.gurinov@uu.nl)
 
-### Phone number 
-+31.(0)30.2532652
-
-### Email
-[info.unmrnl@gmail.com](mailto:info.unmrnl@gmail.com)
-
-### Contact person:
-Dr. Vlad Cojocaru (email: [v.cojocaru@uu.nl](mailto:v.cojocaru@uu.nl)) 
+For access you can apply [here](/access)
