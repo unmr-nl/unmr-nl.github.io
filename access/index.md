@@ -14,7 +14,7 @@ Users and usergroups that can apply for measurement time and expertise on the uN
 
 
 **uNMR-NL consortium** - Users from research groups within the consortium\
-**External Dutch** - Users from Dutch research groups outside of the consortium (including collaborations with uNMR-NL members)
+**External Dutch** - Users from Dutch research groups outside of the consortium (including collaborations with uNMR-NL members)\
 **International** - International collaborators or users via [iNEXT-Discovery](https://inext-discovery.eu/) or [INSTRUCT](https://instruct-eric.org/)\
 **Non-academic** - Users from private organisations
 
