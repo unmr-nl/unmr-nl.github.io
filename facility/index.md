@@ -9,7 +9,6 @@ image:
 ---
 
 ## Ultrahigh-field NMR for the Netherlands
-<img src="/assets/images/logos/logo_nwo.png" align="left" />
 Supported by the Dutch Research Council (<a href="https://www.nwo.nl/en/about-nwo">NWO</a>), uNMR-NL enables non-invasive characterization of molecular systems from the atomic to micrometer range by ultra-high field NMR.  It is a <a href="https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities">national large scale facility</a>) (GWI) and connects all Dutch high-field NMR centers.
 
 
@@ -35,5 +34,5 @@ support for the design and synthesis of paramagnetic probes for protein research
 **Small volume NMR**:\
 development of small volume probes for NMR on volume limited samples or to follow chemical reactions
 
-
+[![NWO logo](/assets/images/logos/logo_nwo.png)](https://www.nwo.nl)
 
