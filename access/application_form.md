@@ -30,7 +30,7 @@
  
 5. Desired NMR experiments and estimated time for each experiment
  
-6. Desired NMR instrument
+6. Desired NMR instrumentation
 
 	⋅ Desired magnetic field
 
