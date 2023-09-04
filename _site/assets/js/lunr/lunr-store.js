@@ -329,6 +329,12 @@ var store = [{
         "url": "/news/Computer-simulations-visualize-how-stem-cell-protein-opens-wrapped-DNA/",
         "teaser": null
       },{
+        "title": "Newly discovered antibiotic kills bacteria in an unusual manner and may be hard to rezist",
+        "excerpt":"   Image: Mechanism of action of the newly discovered antibiotic Clovibactin   Researchers at Utrecht University lead by Markus Weingarth (https://www.weingarth-group.org/) and collaborators from Bonn University (Germany), the German Center for Infection Research (DZIF), Northeastern University of Boston (USA), and the company NovoBiotic Pharmaceuticals (Cambridge, USA) discovered a new powerful antibiotic, isolated from bacteria that could not be studied before, that seems to be capable of combating harmful bacteria and even multi-resistant ‘superbugs’. Named Clovibactin, the antibiotic appears to kill bacteria in an unusual manner, making it more difficult for bacteria to develop any resistance against it. The discovery of Clovibactin and its killing mechanism was published in the scientific journal Cell.   Read more   Publication:   An antibiotic from an uncultured bacterium binds to an immutable target  Rhythm Shukla, Aaron J. Peoples, Kevin C. Ludwig, Sourav Maity, Maik G.N. Derks, Stefania De Benedetti, Annika M Krueger, Bram J.A. Vermeulen, Theresa Harbig, Francesca Lavore, Raj Kumar, Rodrigo V. Honorato, Fabian Grein, Kay Nieselt, Yangping Liu, Alexandre Bonvin, Marc Baldus, Ulrich Kubitscheck, Eefjan Breukink, Catherine Achorn, Anthony Nitti, Christopher J. Schwalen, Amy L. Spoering, Losee Lucy Ling, Dallas Hughes, Moreno Lelli, Wouter H. Roos, Kim Lewis, Tanja Schneider, Markus Weingarth  Cell, 22 August 2023, doi: 10.1038/s41586-022-05019-y  ","categories": ["news"],
+        "tags": [],
+        "url": "/news/Discovery_of_a_new_antibiotic/",
+        "teaser": null
+      },{
     "title": "International advisory board of the uNMR facility",
     "excerpt":"under construction   ","url": "http://localhost:4000/organization/advisory-board/"
   },{
@@ -412,6 +418,9 @@ var store = [{
   },{
     "title": null,
     "excerpt":"","url": "http://localhost:4000/page11/"
+  },{
+    "title": null,
+    "excerpt":"","url": "http://localhost:4000/page12/"
   },{
     "title": null,
     "excerpt":" {% if page.xsl %} {% endif %} {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}{% for collection in collections %}{% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}{% for doc in docs %} {{ doc.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if doc.last_modified_at or doc.date %}{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }} {% endif %} {% endfor %}{% endfor %}{% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.url != \"/404.html\"' %}{% for page in pages %} {{ page.url | replace:'/index.html','/' | absolute_url | xml_escape }} {% if page.last_modified_at %}{{ page.last_modified_at | date_to_xmlschema }} {% endif %} {% endfor %}{% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != \"404.html\"' %}{% for file in static_files %} {{ file.path | replace:'/index.html','/' | absolute_url | xml_escape }} {{ file.modified_time | date_to_xmlschema }}  {% endfor %} ","url": "http://localhost:4000/sitemap.xml"
