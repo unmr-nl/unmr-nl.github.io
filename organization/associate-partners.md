@@ -4,14 +4,15 @@ title: "Associated partners of the uNMR facility"
 tags: [NMR facility, ultrahigh-field NMR, Structural Biology, Computational Biology, Protein Structure]
 ---
 
-*under construction*
+## University of Groningen
+
+The van der Wel group specializes in state-of-the-art solid-state NMR spectroscopy, which is used to probe the structure and dynamics of nano-sized assemblies. One biophysical focus of the research is studying the molecular causes of neurodegenerative diseases, and the role of protein misfolding, protein deposition, and mitochondrial protein-lipid interactions therein. At the same time the group uses similar methods to understand the structure-function relationships behind other non-biological assemblies. 
 
 ## Academic Medical Center
 
-
 The group of Strijkers at the Academic Medical Center in Amsterdam adopts a translational approach for the development of novel MRI sequences for improved diagnostics and therapy monitoring of disease. Novel preclinical protocols for high-field MRI are initially developed in ex vivo specimens as well as mouse and rat models. The most promising protocols are then further developed and translated for human clinical MRI. The group primarily but not exclusively focuses on applications in cardiovascular disease.
 
-The availability of the 950MHz and 1.2 GHz NMR with micro-imaging capabilities offers unique opportunities to study the relationship between the MRI signal/contrast and the underlying (patho-)physiology of tissues from a fundamental perspective in much more detail than is possible at lower fields.
+The availability of the 950 MHz and 1.2 GHz NMR with micro-imaging capabilities offers unique opportunities to study the relationship between the MRI signal/contrast and the underlying (patho-)physiology of tissues from a fundamental perspective in much more detail than is possible at lower fields.
 
 ## Leiden University Medical Center 
 
@@ -23,4 +24,4 @@ The biomedical Magnetic Resonance group of Scheenen from the university medical 
 
 ## Utrecht Medical Center
 
-The group of Prompers conducts research at the UMCU focusing on the study of derangements in tissue lipid metabolism and mitochondrial function, which play a central role in e.g. type 2 diabetes, fatty liver disease and cardiovascular disease. To this end she develops multi-nuclear in vivo MRS methods for both pre-clinical and clinical applications at high field strength (7 Tesla and above). Recently, her group demonstrated the application of <sup>1</sup>H and <sup>31</sup>P MRS to measure in vivo the amount of triglycerides and the energy status, respectively, in the fast-beating mouse heart, which so far has only been accomplished by a couple of laboratories worldwide. In addition to the clinical and pre-clinical work, the group makes use of model systems for human disease, such as zebrafish and organoids. The micro-imaging capabilities of the uNMR-NL 950 MHz and 1.2 GHz MR system offer unprecedented sensitivity and resolution for these small model systems and will allow major advancements, for example in the field of regenerative cardiovascular medicine.
+At the Image Sciences Institute, Division of Imaging & Oncology at UMC Utrecht, the Tax group aims to establish a translational framework that connects MRI studies on humans with investigations involving organoids. Since the installation of the 1.2 GHz (28.2 T) NMR spectrometer, equipped with high-resolution MRI capabilities, they have leveraged this system to achieve remarkable results in exploring novel approaches to studying organoids using MRS and diffusion MRI. Their goal is to develop a validation framework for histological tissue estimates from diffusion MRI using the 28.2 T system, enabling unprecedented high resolutions. Additionally, they collaborate with the Princess Máxima Center to translate these results to imaging pediatric brain tumors.
