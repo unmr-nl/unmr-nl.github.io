@@ -9,7 +9,7 @@ image:
 ---
 
 ## Ultrahigh-field NMR for the Netherlands
-Supported by the Dutch Research Council (<a href="https://www.nwo.nl/en/about-nwo">NWO</a>), uNMR-NL enables non-invasive characterization of molecular systems from the atomic to micrometer range by ultra-high field NMR.  It is a <a href="https://www.nwo.nl/en/researchprogrammes/national-roadmap-large-scale-research-facilities">national large scale facility</a>) (GWI) and connects all Dutch high-field NMR centers.
+Supported by the Dutch Research Council (<a href="https://www.nwo.nl/en/about-nwo">NWO</a>), uNMR-NL enables non-invasive characterization of molecular systems from the atomic to micrometer range by ultra-high field NMR.  It is a <a href="https://www.nwo.nl/en/large-scale-research-infrastructure">national large scale facility</a> (GWI) and connects all Dutch high-field NMR centers.
 
 
 ## Equipment and expertise
