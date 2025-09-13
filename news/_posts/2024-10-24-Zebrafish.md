@@ -5,7 +5,7 @@ category: news
 image:
    cover: /assets/images/posts/news/2024-10-24_news_image_01.jpg
 sidebar:
-   - title: '2025–2026 ECS Toyota Young Investigator Fellows Announced'
+   - title: 'Exquisite Microstructural Details from the Brain of Zebrafish Using 28.2T MRI'
      image: /assets/images/posts/news/2024-10-24_news_image_01.jpg
 author: Andrei Gurinov
 ---
