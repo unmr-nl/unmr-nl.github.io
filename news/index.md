@@ -1,6 +1,6 @@
 ---
 layout: news
-title: "News from the uNMR facility"
+title: "News from the uNMR-NL facility"
 tags: [NMR facility, ultrahigh-field NMR, Structural Biology, Computational Biology, Protein Structure]
 
 image:
