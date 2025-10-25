@@ -13,7 +13,7 @@ author: Andrei Gurinov
 ![Post Image](/assets/images/posts/news/2025-10-23_news_image_01.png)
 
 
-The Netherlands Organisation for Scientific Research (NWO) has announced the recipients of its prestigious Vidi grants for 2025, awarding up to €850,000 to 149 outstanding scientists. This funding enables experienced researchers, those several years beyond their PhD, to launch their own innovative research programmes and build research teams over the next five years.
+The Netherlands Organisation for Scientific Research (NWO) has announced the recipients of its prestigious Vidi grants for the 2024 Vidi, awarding up to €850,000 to 149 outstanding scientists. This funding enables experienced researchers, those several years beyond their PhD, to launch their own innovative research programmes and build research teams over the next five years.
 
 The Vidi grant is part of the [NWO Talent Programme](https://www.nwo.nl/en/calls/nwo-talent-programme), alongside the Veni and Vici grants, and is designed to support the development of novel scientific directions by accomplished investigators. In this round, 778 proposals were submitted, with 149 projects selected.
 
