@@ -223,6 +223,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -261,6 +262,16 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive
+    tag: archive
+  permalinks:
+    category: /category/:name/
+    tag: /tag/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
