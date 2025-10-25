@@ -18,6 +18,20 @@ Vlad Cojocaru:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/_VladCojocaru"
 
+Andrei Gurinov:
+  name        : "Andrei Gurinov"
+  bio         : "Scientific supervisor uNMR-NL"
+  links       :
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:a.gurinov@uu.nl"
+      #    - label: "Website"
+      #      icon: "fas fa-fw fa-link"
+      #      url: "https://cojocarulab.eu"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/andrei-gurinov"
+
 Billy Rick:
   name        : "Billy Rick"
   bio         : "What do you want, jewels? I am a very extravagant man."
