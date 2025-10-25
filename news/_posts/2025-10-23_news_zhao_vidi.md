@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "New In Situ NMR Method Earns Vidi Support at Radboud University"
+title: "New In Situ NMR Method Earns Vidi Support"
 category: news
 image:
    cover: /assets/images/posts/news/2025-10-23_news_image_01.png
 sidebar:
-   - title: 'New In Situ NMR Method Earns Vidi Support at Radboud University'
+   - title: 'New In Situ NMR Method Earns Vidi Support'
      image: /assets/images/posts/news/2025-10-23_news_image_01.png
 author: Andrei Gurinov
 ---
