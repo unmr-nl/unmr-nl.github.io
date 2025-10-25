@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Evan Wenbo Zhao Awarded Prestigious ECS Toyota Young Investigator Fellowship for Green Energy Research"
+title: "Evan Zhao Awarded ECS Toyota Young Investigator Fellowship for Green Energy Research"
 category: news
 image:
    cover: /assets/images/posts/news/2025-09-03_news_image_01.jpg
