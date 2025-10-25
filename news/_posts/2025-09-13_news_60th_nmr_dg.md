@@ -1,0 +1,26 @@
+---
+layout: single
+title: "60th scientific meeting of the Dutch NMR Discussion Group"
+category: news
+image:
+   cover: /assets/images/posts/news/2025-09-13_news_image_01.jpg
+sidebar:
+   - title: '60th Dutch NMRDG Meeting'
+     image: /assets/images/posts/news/2025-09-13_news_image_01.jpg
+author: Andrei Gurinov
+---
+
+![Post Image](/assets/images/posts/news/2025-09-13_news_image_01.jpg)
+
+
+The 60th scientific meeting of the Dutch NMR Discussion Group this year will be held at Radboud University on Friday Oct 31, 2025. This year marked the Diamond Jubilee of the NMRDG annual meeting and will feature four keynote speakers, Prof Geoffrey Bodenhausen (Ecole Normale Supérieure), Dr. Andreas Brinkmann (National Research Council Canada), Prof. Birthe Kragelund (University of Copenhagen) and Prof Geerten Vuister (University of Leicester). A festive buffet dinner will be served at the end.
+
+[Registration form is linked here.](https://docs.google.com/forms/d/e/1FAIpQLSfVwogsWqL3khvAIJQF81XX302ZZd7BMLZ5RmKmoFhjdqDrWg/viewform)
+
+
+The day before the NMRDG annual meeting will be Arno Kentgens’ Symposium to celebrate Arno’s 25 years Professorship in Magnetic Resonance in Nijmegen.  It is on Thursday Oct 30, 2025. Featured speakers are: Marc Baldus (Utrecht University/HFML-FELIX/Radboud University), Geoffrey Bodenhausen (ENS/EPFL), Andreas Brinkmann (National Research Council Canada), Matthias Ernst (ETH Zurich), Helen Grueninger (University of Bayreuth), Paul Jonsen (TalaveraScience), Michael C. D. Tayler (ICFO), Angel Wong (PhD student representative). The lectures are open to public and free of charge. Please indicate whether you are interested in attending the lectures in the registration form.  
+
+Organising Committee: Evan Wenbo Zhao (Radboud University), Marian de With (Radboud University), Luc Alders (Eurofins), Rolf Boelens (Utrecht University), Klaartje Houben (DSM-Firmenich), Hugo van Ingen (Utrecht University), Daan de Kort (Shell), Patrick van der Wel (University of Groningen), Anne Wentink (University of Leiden)
+
+[More information](https://sac.kncv.nl/nmr/annual-meeting)
+
