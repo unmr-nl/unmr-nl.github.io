@@ -5,7 +5,7 @@ category: news
 image:
    cover: /assets/images/posts/news/2023-09-04_news_image_01.jpg
 sidebar:
-   - title: 'New antibiotic from microbial \"dark matter\"'
+   - title: 'New antibiotic from microbial "dark matter"'
      image: /assets/images/posts/news/2023-09-04_news_image_01.jpg
 author: Vlad Cojocaru
 ---
