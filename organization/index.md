@@ -6,8 +6,9 @@ image:
    banner: /assets/images/pages/organization_page_banner_image.jpg
 ---
 
+
+## [Team members](/organization/team-members)
+
 ## [Associate partners](/organization/associate-partners)
 
 ## [International advisory board](/organization/advisory-board)
-
-## [Team members](/organization/team-members)
