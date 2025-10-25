@@ -7,3 +7,4 @@ gem 'github-pages'
 gem 'webrick'
 gem 'minimal-mistakes-jekyll'
 gem 'faraday-retry'
+gem "jekyll-archives"
