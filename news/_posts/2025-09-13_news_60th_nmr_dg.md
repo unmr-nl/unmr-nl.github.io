@@ -5,7 +5,7 @@ category: news
 image:
    cover: /assets/images/posts/news/2025-09-13_news_image_01.jpg
 sidebar:
-   - title: '60th Dutch NMRDG Meeting'
+   - title: '60th Dutch NMR-DG Meeting'
      image: /assets/images/posts/news/2025-09-13_news_image_01.jpg
 author: Andrei Gurinov
 ---
