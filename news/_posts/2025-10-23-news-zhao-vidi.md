@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-news
 title: "New In Situ NMR Method Earns Vidi Support"
 category: news
 image:
