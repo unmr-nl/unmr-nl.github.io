@@ -43,17 +43,17 @@ tags: [NMR facility, ultrahigh-field NMR, Structural Biology, Computational Biol
 
 	⋅ Desired magnetic field
 
-	 **Solution state NMR**
+	**Solution state NMR**
 
 	⋅ Cryoprobe
 
 	⋅ Samplechanger
 
- 	**Solid state NMR**
+	**Solid state NMR**
 
-	 ⋅ MAS speed / rotor diameter
+	⋅ MAS speed / rotor diameter
 
-	 ⋅ DNP
+	⋅ DNP
 
 7. Is this a collaborative project with one of the uNMR-NL facilities?
 
