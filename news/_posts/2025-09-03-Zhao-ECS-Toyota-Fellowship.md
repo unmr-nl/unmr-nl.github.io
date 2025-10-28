@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-news
 title: "Evan Zhao Awarded ECS Toyota Young Investigator Fellowship for Green Energy Research"
 category: news
 image:
