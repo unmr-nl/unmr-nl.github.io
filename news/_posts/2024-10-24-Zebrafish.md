@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single-news
 title: "Exquisite Microstructural Details from the Brain of Zebrafish Using 28.2T MRI"
 category: news
 image:
