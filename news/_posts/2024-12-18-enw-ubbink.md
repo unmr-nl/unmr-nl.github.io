@@ -1,11 +1,11 @@
 ---
 layout: single-news
-title: "ENW-M Grant Awarded for Research on Ancient Proteins"
+title: "ENW-M Grant Awarded to Marcellus Ubbink for Research on Ancient Proteins"
 category: news
 image:
    cover: /assets/images/posts/news/2024-12-18_news_image_01.jpg
 sidebar:
-   - title: 'ENW-M Grant Awarded for Research on Ancient Proteins'
+   - title: 'ENW-M Grant Awarded to Marcellus Ubbink for Research on Ancient Proteins'
      image: /assets/images/posts/news/2024-12-18_news_image_01.jpg
 author: Andrei Gurinov
 ---
