@@ -1,11 +1,11 @@
 ---
 layout: single-news
-title: "€1.5 Million Grant Supports Breakthrough Research on Antibiotic Toxicity at Utrecht University"
+title: "€1.5 Million Grant Supports Breakthrough Research on Antibiotic Toxicity"
 category: news
 image:
    cover: /assets/images/posts/news/2025-03-17-news-image-01.jpg
 sidebar:
-   - title: '€1.5 Million Grant Supports Breakthrough Research on Antibiotic Toxicity at Utrecht University'
+   - title: '€1.5 Million Grant Supports Breakthrough Research on Antibiotic Toxicity'
      image: /assets/images/posts/news/2025-03-17-news-image-01.jpg
 author: Andrei Gurinov
 ---
