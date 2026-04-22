@@ -3,6 +3,6 @@ layout: single
 title: "Hugo van Ingen"
 category: members
 image:
-   cover: /assets/images/people/people_hugo_van_Ingen.jpg
+   cover: /assets/images/people/people_hugo_van_ingen.jpg
 ---
 
