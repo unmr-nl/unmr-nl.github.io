@@ -91,21 +91,27 @@
   avatar:
   orcid:
 
-- name: Julia Krug
-  position:
-  url:
+- name: Marco Tessari
+  position: Assistant Professor at Radboud University
+  url: https://www.ru.nl/en/people/tessari-m
   avatar:
   orcid:
+
+- name: Julia Krug
+  position: Assistant Professor at Wageningen University & Research
+  url: https://research.wur.nl/en/persons/julia-krug/
+  avatar:
+  orcid: https://orcid.org/0000-0002-9539-0675
 
 - name: Camilla Terenzi
-  position:
-  url:
+  position: Associate Professor at Wageningen University & Research
+  url: https://research.wur.nl/en/persons/camilla-terenzi/
   avatar:
-  orcid:
+  orcid: https://orcid.org/0000-0003-3278-026X
 
 - name: Chantal Tax
-  position:
-  url:
+  position: Associate Professor at UMC Utrecht
+  url: https://research.umcutrecht.nl/researchers/chantal-tax/
   avatar:
   orcid:
 
@@ -116,31 +122,25 @@
   orcid: https://orcid.org/0000-0002-5390-3321
 
 - name: Gustav Strijkers
-  position:
-  url:
+  position: Professor at Amsterdam UMC
+  url: https://www.amsterdamumc.org/en/research/researchers/gustav-strijkers
   avatar:
   orcid:
 
 - name: Tom Scheenen
-  position:
-  url:
+  position: Professor at Radboud UMC
+  url: https://www.radboudumc.nl/personen/tom-scheenen
   avatar:
   orcid:
 
 - name: Andrew Webb
-  position:
-  url:
-  avatar:
-  orcid:
-
-- name: Marco Tessari
-  position:
-  url:
+  position: Professor at Leiden UMC
+  url: https://www.lumc.nl/en/afdelingen/radiologie/ag-webb/
   avatar:
   orcid:
 
 - name: Eric van Sprang
-  position:
-  url:
+  position: Progam manager at TI-COAST
+  url: https://www.ti-coast.com/profile/107-eric-van-sprang
   avatar:
   orcid:
