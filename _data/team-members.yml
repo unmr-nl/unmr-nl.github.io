@@ -13,7 +13,7 @@
 - name: Alexandre Bonvin
   position: Professor at Utrecht University
   url: http://www.uu.nl/staff/amjjbonvin
-  avatar: /images/people/Bonvin-2020-12.jpg
+  avatar: /assets/images/people/people_alexandre_bonvin.jpg
   github: https://github.com/haddocking
   orcid: https://orcid.org/0000-0001-7369-1322
   bluesky: https://bsky.app/profile/amjjbonvin.bsky.social
@@ -22,125 +22,125 @@
 - name: Markus Weingarth
   position: Associate Professor at Utrecht University
   url: https://www.uu.nl/staff/MHWeingarth
-  avatar:
+  avatar: /assets/images/people/people_markus_weingarth.png
   orcid: https://orcid.org/0000-0003-0831-8673
 
 - name: Hugo van Ingen
   position: Associate Professor at Utrecht University
   url: https://www.uu.nl/staff/HvanIngen
-  avatar:
+  avatar: /assets/images/people/people_hugo_van_ingen.jpg
   orcid: https://orcid.org/0000-0002-0808-3811
 
 - name: Reinout Raijmakers
   position: Teamleader of the Research Support Office at Utrecht University
   url: https://www.uu.nl/staff/RRaijmakers
-  avatar:
+  avatar: /assets/images/people/people_reinout_raijmakers.jpg
   orcid: https://orcid.org/0000-0001-6316-6663
 
 - name: Andrei Gurinov
   position: uNMR-NL Project Coordinator, NMR Facility Manager at Utrecht University
   url: https://www.uu.nl/staff/AGurinov
-  avatar:
+  avatar: /assets/images/people/people_andrei_gurinov.jpg
   orcid: https://orcid.org/0000-0002-9488-3064
 
 - name: Huub de Groot
   position: Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/huub-de-groot
-  avatar:
+  avatar: /assets/images/people/people_huub_de_groot.jpg
   orcid: https://orcid.org/0000-0002-8796-1212
 
 - name: Marcellus Ubbink
   position: Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/marcellus-ubbink
-  avatar:
+  avatar: /assets/images/people/people_marcellus_ubbink.jpg
   orcid:
 
 - name: Anjali Pandit
   position: Assistant Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/anjali-pandit
-  avatar:
+  avatar: /assets/images/people/people_anjali_pandit.jpg
   orcid:
 
 - name: Alia Matysik-Alia
   position: Assistant Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/alia-alia
-  avatar:
+  avatar: /assets/images/people/people_alia_matysik-alia.jpg
   orcid:
 
 - name: Karthick Sai Sankar Gupta
   position: Head of NMR Department at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/karthick-sai-sankar-gupta
-  avatar:
+  avatar: /assets/images/people/people_karthick_sai_sankar_gupta.jpg
   orcid:
 
 - name: Arno Kentgens
   position: Professor at Radboud University
   url: https://www.ru.nl/en/people/kentgens-a
-  avatar:
+  avatar: /assets/images/people/people_arno_kentgens.jpg
   orcid:
 
 - name: Evan Zhao
   position: Assistant Professor at Radboud University
   url: https://www.ru.nl/en/people/zhao-w
-  avatar:
+  avatar: /assets/images/people/people_evan_zhao.jpg
   orcid:
 
 - name: Ernst van Eck
   position: Assistant Professor at Radboud University
   url: https://www.ru.nl/en/people/eck-e-van
-  avatar:
+  avatar: /assets/images/people/people_ernst_van_eck.jpg
   orcid:
 
 - name: Marco Tessari
   position: Assistant Professor at Radboud University
   url: https://www.ru.nl/en/people/tessari-m
-  avatar:
+  avatar: /assets/images/people/people_marco_tesari.jpg
   orcid:
 
 - name: Julia Krug
   position: Assistant Professor at Wageningen University & Research
   url: https://research.wur.nl/en/persons/julia-krug/
-  avatar:
+  avatar: /assets/images/people/people_julia_krug.jpg
   orcid: https://orcid.org/0000-0002-9539-0675
 
 - name: Camilla Terenzi
   position: Associate Professor at Wageningen University & Research
   url: https://research.wur.nl/en/persons/camilla-terenzi/
-  avatar:
+  avatar: /assets/images/people/people_camilla_terenzi.jpg
   orcid: https://orcid.org/0000-0003-3278-026X
 
 - name: Chantal Tax
   position: Associate Professor at UMC Utrecht
   url: https://research.umcutrecht.nl/researchers/chantal-tax/
-  avatar:
+  avatar: /assets/images/people/people_chantal_tax.jpg
   orcid:
 
 - name: Patrick van der Wel
   position: Associate Professor at University of Groningen
   url: https://www.rug.nl/staff/p.c.a.van.der.wel/
-  avatar:
+  avatar: /assets/images/people/people_patrick_van_der_wel.jpg
   orcid: https://orcid.org/0000-0002-5390-3321
 
 - name: Gustav Strijkers
   position: Professor at Amsterdam UMC
   url: https://www.amsterdamumc.org/en/research/researchers/gustav-strijkers
-  avatar:
+  avatar: /assets/images/people/people_gustav_strijkers.jpg
   orcid:
 
 - name: Tom Scheenen
   position: Professor at Radboud UMC
   url: https://www.radboudumc.nl/personen/tom-scheenen
-  avatar:
+  avatar: /assets/images/people/people_tom_scheenen.jpg
   orcid:
 
 - name: Andrew Webb
   position: Professor at Leiden UMC
   url: https://www.lumc.nl/en/afdelingen/radiologie/ag-webb/
-  avatar:
+  avatar: /assets/images/people/people_andrew_webb.jpg
   orcid:
 
 - name: Eric van Sprang
   position: Progam manager at TI-COAST
   url: https://www.ti-coast.com/profile/107-eric-van-sprang
-  avatar:
+  avatar: /assets/images/people/people_eric_van_sprang.jpg
   orcid:
