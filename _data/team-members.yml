@@ -22,96 +22,125 @@
 - name: Markus Weingarth
   position: Associate Professor at Utrecht University
   url: https://www.uu.nl/staff/MHWeingarth
+  avatar:
+  orcid: https://orcid.org/0000-0003-0831-8673
 
 - name: Hugo van Ingen
   position: Associate Professor at Utrecht University
   url: https://www.uu.nl/staff/HvanIngen
+  avatar:
+  orcid: https://orcid.org/0000-0002-0808-3811
 
 - name: Reinout Raijmakers
   position: Teamleader of the Research Support Office at Utrecht University
   url: https://www.uu.nl/staff/RRaijmakers
+  avatar:
+  orcid: https://orcid.org/0000-0001-6316-6663
 
 - name: Andrei Gurinov
   position: uNMR-NL Project Coordinator, NMR Facility Manager at Utrecht University
   url: https://www.uu.nl/staff/AGurinov
+  avatar:
+  orcid: https://orcid.org/0000-0002-9488-3064
 
 - name: Huub de Groot
   position: Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/huub-de-groot
+  avatar:
+  orcid: https://orcid.org/0000-0002-8796-1212
 
 - name: Marcellus Ubbink
   position: Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/marcellus-ubbink
+  avatar:
+  orcid:
 
 - name: Anjali Pandit
   position: Assistant Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/anjali-pandit
+  avatar:
+  orcid:
 
 - name: Alia Matysik-Alia
   position: Assistant Professor at Leiden University
   url: https://www.universiteitleiden.nl/en/staffmembers/alia-alia
+  avatar:
+  orcid:
 
 - name: Karthick Sai Sankar Gupta
   position: Head of NMR Department at Leiden University
-  url: https://www.universiteitleiden.nl/en/staffmembers/karthick-sai-sankar-gupta#tab-1
+  url: https://www.universiteitleiden.nl/en/staffmembers/karthick-sai-sankar-gupta
+  avatar:
+  orcid:
 
 - name: Arno Kentgens
-  position:
-  url:
+  position: Professor at Radboud University
+  url: https://www.ru.nl/en/people/kentgens-a
+  avatar:
+  orcid:
 
 - name: Evan Zhao
-  position:
-  url:
+  position: Assistant Professor at Radboud University
+  url: https://www.ru.nl/en/people/zhao-w
+  avatar:
+  orcid:
 
 - name: Ernst van Eck
-  position:
-  url:
+  position: Assistant Professor at Radboud University
+  url: https://www.ru.nl/en/people/eck-e-van
+  avatar:
+  orcid:
 
 - name: Julia Krug
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Camilla Terenzi
   position:
   url:
-
-
+  avatar:
+  orcid:
 
 - name: Chantal Tax
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Patrick van der Wel
-  position:
-  url:
+  position: Associate Professor at University of Groningen
+  url: https://www.rug.nl/staff/p.c.a.van.der.wel/
+  avatar:
+  orcid: https://orcid.org/0000-0002-5390-3321
 
 - name: Gustav Strijkers
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Tom Scheenen
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Andrew Webb
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Marco Tessari
   position:
   url:
+  avatar:
+  orcid:
 
 - name: Eric van Sprang
   position:
   url:
-
-
-
-
-
-
-
-
-
-
-
+  avatar:
+  orcid:
