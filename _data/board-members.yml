@@ -10,7 +10,6 @@
 #   bluesky: https://bsky.app/profile/haddock.bsky.social
 #   x: https://x.com/capitainehaddock
 
-
 - name: Ad Bax
   position: NIH Distinguished Investigator
   url: https://irp.nih.gov/pi/adriaan-bax
@@ -31,13 +30,13 @@
   linkedin: https://www.linkedin.com/in/greygroupcam/
   bluesky: https://bsky.app/profile/greygroupcam.bsky.social
 
-  - name: Beat Meier
+- name: Beat Meier
   position: Professor Emeritus at ETH Zurich
   url: https://chab.ethz.ch/en/research/faculty/person-detail.bmeier.html
   avatar: /assets/images/people/people_beat_meier.jpg
   orcid: https://orcid.org/0000-0002-9107-4464
 
-  - name: Axel Haase
+- name: Axel Haase
   position: Professor Emeritus of Excellence at TUM
   url: https://www.emeriti-of-excellence.tum.de/en/eoe/tum-emeriti-of-excellence-a-z/a-z/axel-haase-eng/
   avatar: /assets/images/people/people_axel_haase.jpg
