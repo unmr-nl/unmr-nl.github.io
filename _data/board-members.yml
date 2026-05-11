@@ -18,28 +18,30 @@
   orcid: http://orcid.org/0000-0002-9809-5700
 
 - name: Christian Griesinger
-  position: 
-  url: 
+  position: Director at the Max Planck Institute for Multidisciplinary Sciences
+  url: https://www.mpinat.mpg.de/griesinger
   avatar: /assets/images/people/people_christian_griesinger.jpg
-  orcid: 
+  orcid: http://orcid.org/0000-0002-1266-4344
 
 - name: Clare Grey
-  position: 
-  url: 
+  position: Professor at the University of Cambridge
+  url: https://grey.group.ch.cam.ac.uk
   avatar: /assets/images/people/people_claire_grey.jpg
-  orcid: 
+  orcid: https://orcid.org/0000-0001-5572-192X
+  linkeid: https://www.linkedin.com/in/greygroupcam/
+  bluesky: https://bsky.app/profile/greygroupcam.bsky.social
 
   - name: Beat Meier
-  position: 
-  url: 
+  position: Professor Emeritus at ETH Zurich
+  url: https://chab.ethz.ch/en/research/faculty/person-detail.bmeier.html
   avatar: /assets/images/people/people_beat_meier.jpg
-  orcid: 
+  orcid: https://orcid.org/0000-0002-9107-4464
 
   - name: Axel Haase
-  position: 
-  url: 
+  position: Professor Emeritus of Excellence at TUM
+  url: https://www.emeriti-of-excellence.tum.de/en/eoe/tum-emeriti-of-excellence-a-z/a-z/axel-haase-eng/
   avatar: /assets/images/people/people_axel_haase.jpg
-  orcid: 
+  orcid: https://orcid.org/0000-0001-5588-3742
 
 - name: Paul van Tilborg
   position: Director CRO services at Ardena
