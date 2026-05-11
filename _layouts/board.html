@@ -148,32 +148,9 @@ layout: default
 
   {{ content }}
 
-<div id="title">
-  <h2>International Advisory Board Members</h2>
-  <div class="grid-2-4-8">
-    {% for post in site.categories.board-members %}
-      <div class="gridbox">
-        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-        {% if post.image.cover %}
-          {% if post.image.cover contains 'http' %}
-            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
-          {% else %}
-            <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-          {% endif %}
-        {% else %}
-          {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
-          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-        {%  endif %}
-      </div> <!-- gridbox  -->
-    {% endfor %}
-  </div> <!-- grid-2-4-8  -->
-</div> <!-- title (advisory board)  -->
 
-</div> <!--- main -->
-
-
-<div class="team-section">
-  <h3>Current members</h3>
+ <div class="team-section">
+  <h3>International Advisory Board Members</h3>
   <ul class="team-grid">
     {% for member in site.data.board-members %}
       {% assign avatar = member.avatar %}
@@ -223,4 +200,5 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-</div>
+ </div>
+</div> <!--- main -->
