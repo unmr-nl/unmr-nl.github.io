@@ -145,27 +145,6 @@ layout: default
 
   {{ content }}
 
-#<div id="title">
-#  <h2>Team members</h2>
-#    {% for post in site.categories.members %}
-#  <div class="grid-2-4-8">
-#      <div class="gridbox">
-#        <h5><a href="{{ post.url }}">{{ post.title }}</a></h5>
-#        {% if post.image.cover %}
-#          {% if post.image.cover contains 'http' %}
-#            <img src="{{ post.image.cover }}" alt="{{ post.title }} external cover image">
-#          {% else %}
-#            <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-#          {% endif %}
-#        {% else %}
-#          <img src="{{ post.image.cover }}" alt="{{ post.title }} cover image" | relative_url>
-#          {% capture post.image.cover %}{/assets/images/people/people_default.jpg]{% endcapture %}
-#        {% endif %}
-#      </div> <!-- gridbox  -->
-#    {% endfor %}
-#  </div> <!-- grid-2-4-8  -->
-#</div> <!-- title (members)  -->
-
 </div> <!--- main -->
 
 <div class="team-section">
