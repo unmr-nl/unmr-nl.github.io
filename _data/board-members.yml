@@ -1,0 +1,48 @@
+# Example entry — all fields are optional except `name` and `position`
+# - name: Capitaine Haddock
+#   position: Ph.D Candidate        # used for role colour: Professor, Engineer/Manager,
+#                                   # Postdoc, Ph.D/PhD, M.Sc/MSc, Visiting
+#   url: https://example.com        # personal website (makes the name a link)
+#   avatar: /images/people/capitaine-haddock.jpg
+#   orcid: https://orcid.org/0000-0000-0000-0000
+#   github: https://github.com/capitainehaddock
+#   linkedin: https://www.linkedin.com/in/capitainehaddock/
+#   bluesky: https://bsky.app/profile/haddock.bsky.social
+#   x: https://x.com/capitainehaddock
+
+
+- name: Ad Bax
+  position: NIH Distinguished Investigator
+  url: https://irp.nih.gov/pi/adriaan-bax
+  avatar: /assets/images/people/people_ad_bax.png
+  orcid: http://orcid.org/0000-0002-9809-5700
+
+- name: Christian Griesinger
+  position: 
+  url: 
+  avatar: /assets/images/people/people_christian_griesinger.jpg
+  orcid: 
+
+- name: Clare Grey
+  position: 
+  url: 
+  avatar: /assets/images/people/people_claire_grey.jpg
+  orcid: 
+
+  - name: Beat Meier
+  position: 
+  url: 
+  avatar: /assets/images/people/people_beat_meier.jpg
+  orcid: 
+
+  - name: Axel Haase
+  position: 
+  url: 
+  avatar: /assets/images/people/people_axel_haase.jpg
+  orcid: 
+
+- name: Paul van Tilborg
+  position: Director CRO services at Ardena
+  url: 
+  avatar: /assets/images/people/people_paul_van_tilborg.jpg
+  linkedin: https://www.linkedin.com/in/paulvantilborg/
