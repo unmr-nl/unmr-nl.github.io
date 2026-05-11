@@ -28,7 +28,7 @@
   url: https://grey.group.ch.cam.ac.uk
   avatar: /assets/images/people/people_claire_grey.jpg
   orcid: https://orcid.org/0000-0001-5572-192X
-  linkeid: https://www.linkedin.com/in/greygroupcam/
+  linkedin: https://www.linkedin.com/in/greygroupcam/
   bluesky: https://bsky.app/profile/greygroupcam.bsky.social
 
   - name: Beat Meier
@@ -45,6 +45,5 @@
 
 - name: Paul van Tilborg
   position: Director CRO services at Ardena
-  url: 
   avatar: /assets/images/people/people_paul_van_tilborg.jpg
   linkedin: https://www.linkedin.com/in/paulvantilborg/
